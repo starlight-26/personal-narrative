@@ -19,12 +19,9 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 ![UML Diagram for my project](UMLdiagram.png)
 
 ## Video
-
-[![Thumbnail for my project](thumbnail.png)]([https://www.youtube.com/watch?v=LMxG6tw77Wc&feature=youtu.be])
+[<img src="thumbnail.png">](https://youtu.be/LMxG6tw77Wc)
 
 ## Story Description
-
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+My animation showcases both a list of some of my favorite Pokemon as well as my least favorite Pokemon. I use two different 2D arrays to store the images of my favorite and nonfavorite Pokemon. I also use 2D arrays to store the names of the Pokemon. These arrays allow me to display images and their names on the screen.
 ## Image Filter Analysis
-
-Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+A filter that I used in my project was the makeNegative() method. This method  inverts the colors in the image by setting the red,green, and blue color values of each Pixel object to the result of 255 minus their current values. Another filter I used was saturate() method. It takes an input of a certain value and uses it to create a new average in order to change the RGB values are displayed.
