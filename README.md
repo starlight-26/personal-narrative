@@ -16,22 +16,11 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 - **Document your code** – Use comments to explain the purpose of the methods and code segments and note any preconditions and postconditions.
 
 ## UML Diagram
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](UMLdiagram.png)
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my project](thumbnail.png)]([https://www.youtube.com/watch?v=LMxG6tw77Wc&feature=youtu.be])
 
 ## Story Description
 
